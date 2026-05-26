@@ -1,0 +1,6 @@
+{
+  "name": "Projeto Base",
+  "description": "Projeto base Android com configuração do Secrets Gradle e arquivo .env",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
